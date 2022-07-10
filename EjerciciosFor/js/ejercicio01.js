@@ -1,0 +1,1 @@
+var numero = prompt("Favor de ingresar un número");
